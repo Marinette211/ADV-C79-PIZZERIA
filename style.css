@@ -1,0 +1,37 @@
+body{
+text-align:center;
+background : linear-gradient(#E181FF 50%, #FFA2FB 50%);
+}
+.img{
+width: 200px;
+margin-bottom: 50px;
+}
+.h1{
+text-align: center;
+color: darkviolet;
+font-size: 35px;
+background-color: aquamarine;
+}
+.p{
+font-size: 25px;
+color: deeppink;
+font-weight: bolder;
+background-color: aqua;
+}
+
+.h2{
+font-size: 20px;
+color: deepskyblue;
+}
+.line{
+height: 6px;
+background-color: fuchsia;
+width:70px;
+margin: 8px auto;
+}
+#bio{
+padding:20px;
+font-size:18px;
+text-align: center;
+}
+
